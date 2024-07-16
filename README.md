@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmohak&label=Profile%20views&color=0e75b6&style=flat" alt="adilmohak" /> </p>
 
-- 🔭 I’m currently working on **another powerful app**
+- 🔭 Dasturiy ta'minotni ishlab chiqishda katta tajribaga ega kompyuter muhandisi. 
 
-- 🌱 I’m currently learning **advanced data visualization techniques in Python**
+- 🌱 Men hozirda Pythonda ma'lumotlarni vizualizatsiya qilishning ilg'or usullarini o'rganyapman
 
-- 👯 I’m looking to collaborate on **open-source projects related to web development**
+- 👯 Men veb-sayt ishlab chiqish bilan bog'liq ochiq manbali loyihalarda hamkorlik qilmoqchiman
 
 - 👨‍💻 Mening barcha loyihalarim ushbu Git Hub hisobimda [https://github.com/Xusanbek0071](https://github.com/Xusanbek0071)
 
-- 💬 Ask me about **Django, React, ML, and best practices in web development**
+- 💬 Mendan Django, React, ML va veb-ishlab chiqishdagi eng yaxshi amaliyotlar haqida so‘rashingiz mumkin
 
-- ⚡ Fun fact **I'm not afraid of bugs**
+- ⚡ Qiziqarli fakt, men xatolardan qo'rqmayman
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adilmohak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilmohak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adilmohak" target="blank"><img align="center" src="https://lavali.ru/wp-content/uploads/2024/04/Telegram1.png" alt="adilmohak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12872688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12872688" height="30" width="40" /></a>
 <a href="https://fb.com/adilmohak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilmohak1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucimbcrz7viknr4f_csbs5uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucimbcrz7viknr4f_csbs5uw" height="30" width="40" /></a>
