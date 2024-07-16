@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adilmohak" target="blank"><img align="center" src="https://lavali.ru/wp-content/uploads/2024/04/Telegram1.png" alt="adilmohak" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/adilmohak" target="blank"><img align="center" src="https://lavali.ru/wp-content/uploads/2024/04/Telegram1.png" alt="adilmohak" height="30" width="50" /></a>
 <a href="https://stackoverflow.com/users/12872688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12872688" height="30" width="40" /></a>
 <a href="https://fb.com/adilmohak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilmohak1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucimbcrz7viknr4f_csbs5uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucimbcrz7viknr4f_csbs5uw" height="30" width="40" /></a>
