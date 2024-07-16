@@ -29,6 +29,6 @@
 
 
 
-<p><img align="left" src="/Favicon.ico" alt="adilmohak" /></p>
+<a href="http://itclms.uz/"><img align="left" src="/Favicon.ico" alt="adilmohak" /></a>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adilmohak&" alt="adilmohak" /></p>
+<a hred="https://itc-blog.uz/"><img align="left" src="/logo.png" alt="adilmohak" /></a>
