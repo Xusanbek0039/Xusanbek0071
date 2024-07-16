@@ -29,6 +29,6 @@
 
 
 
-<a href="http://itclms.uz/"><img align="left" src="/Favicon.ico" alt="adilmohak" /></a>
+<a href="http://itclms.uz/"><img align="left" src="/Favicon.ico" alt="ITC LMS Platfor" /></a>
 <br>
-<a hred="https://itc-blog.uz/"><img align="left" src="/logo.png" alt="adilmohak" /></a>
+<a hred="https://itc-blog.uz/"><img align="left" src="/logo.png" alt="IT Blog Platform" height="70" width="80" /></a>
