@@ -29,6 +29,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adilmohak&show_icons=true&locale=en" alt="adilmohak" /></p>
+<p><img align="left" src="/Favicon.ico" alt="adilmohak" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adilmohak&" alt="adilmohak" /></p>
