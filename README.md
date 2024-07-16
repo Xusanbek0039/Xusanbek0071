@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects related to web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adilmohak](https://github.com/adilmohak)
+- 👨‍💻 Mening barcha loyihalarim ushbu Git Hub hisobimda [https://github.com/Xusanbek0071](https://github.com/Xusanbek0071)
 
 - 💬 Ask me about **Django, React, ML, and best practices in web development**
 
