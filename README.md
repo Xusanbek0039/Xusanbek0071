@@ -1,5 +1,5 @@
 <h1 align="center">Assalom Alekum Va Raxmatullohu Va Barakot.</h1>
-<h3 align="center">A Computer Engineer graduate with extensive experience in software development.</h3>
+<h3 align="center">Dasturiy ta'minotni ishlab chiqishda katta tajribaga ega kompyuter muhandisi. Suyunov Husan Shavkat o'g'li.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmohak&label=Profile%20views&color=0e75b6&style=flat" alt="adilmohak" /> </p>
 
