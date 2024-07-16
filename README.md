@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/mbin_dev_0071" target="blank"><img align="center" src="https://lavali.ru/wp-content/uploads/2024/04/Telegram1.png" alt="adilmohak" height="30" width="50" /></a>
-<a href="https://stackoverflow.com/users/12872688" target="blank"><img align="center" src="https://market.wysiwygwebbuilder.ru/image/cache/catalog/gudwinn/instagram-icon-1200x750.png" alt="12872688" height="30" width="50" /></a>
-<a href="https://fb.com/adilmohak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilmohak1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucimbcrz7viknr4f_csbs5uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucimbcrz7viknr4f_csbs5uw" height="30" width="40" /></a>
+<a href="https://www.instagram.com/husanbek_dev?igsh=MWlwcnAzMTJzaXk4aA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://market.wysiwygwebbuilder.ru/image/cache/catalog/gudwinn/instagram-icon-1200x750.png" alt="12872688" height="30" width="50" /></a>
+<a href="https://fb.com/husanbek_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adilmohak1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@IT_Creative_News" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucimbcrz7viknr4f_csbs5uw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
