@@ -40,5 +40,8 @@
 ------------
 
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Xusanbek0071/Xusanbek0071/blob/main/snake.svg)
 
+
+
+https://raw.githubusercontent.com/Xusanbek0071/Xusanbek0071/8828e5322a177ef07bb3f43cfad579eaa989c0ea/snake.svg
