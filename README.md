@@ -31,8 +31,8 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps:/www.linkedin.com/in/davronbek-boltayev)](https://www.linkedin.com/in/davronbek-boltayev/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/firdavs_dev)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0071)
 
 ------------
 [![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
