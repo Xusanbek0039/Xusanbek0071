@@ -32,7 +32,9 @@
 **Contact**
 
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0071)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0071)
+
+[![Instagram](https://pictra.co/files/img/photo/png-kartinki-dlia-instagram/png-kartinki-dlia-instagram-29.webp)](https://t.me/mbin_dev_0071)
 
 ------------
 [![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
@@ -42,6 +44,3 @@
 
 ![Snake animation](https://github.com/Xusanbek0071/Xusanbek0071/blob/main/snake.svg)
 
-
-
-https://raw.githubusercontent.com/Xusanbek0071/Xusanbek0071/8828e5322a177ef07bb3f43cfad579eaa989c0ea/snake.svg
