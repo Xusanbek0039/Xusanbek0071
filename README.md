@@ -1,4 +1,4 @@
-![Welcome!](m.mp4)
+![Welcome!](m.gif)
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">  -->
 
