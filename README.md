@@ -33,7 +33,6 @@
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0039)
-[![Instagram](https://cdn.icon-icons.com/icons2/2699/PNG/512/instagram_logo_icon_170643.png))](https://t.me/mbin_dev_0039)
 
 
 
