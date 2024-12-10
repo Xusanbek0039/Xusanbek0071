@@ -32,12 +32,12 @@
 **Contact**
 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0071)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/firdavs_dev)](https://t.me/mbin_dev_0039)
 
 
 
 ------------
-[![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/firdavsDev/)
+[![Hits](https://hits.sh/github.com/firdavsDev.svg)](https://hits.sh/github.com/xusanbek0039)
 [![wakatime](https://wakatime.com/badge/user/4e5f859d-4a72-40d4-b9f2-7466701f3c27.svg)](https://wakatime.com/@4e5f859d-4a72-40d4-b9f2-7466701f3c27)
 ------------
 
